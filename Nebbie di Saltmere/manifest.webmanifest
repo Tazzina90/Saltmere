@@ -1,0 +1,17 @@
+{
+  "name": "Le Nebbie di Saltmere",
+  "short_name": "Saltmere",
+  "description": "Gioco investigativo testuale gotico in una città portuale vittoriana.",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0c1313",
+  "theme_color": "#0c1313",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
