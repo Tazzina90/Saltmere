@@ -1,5 +1,5 @@
 // Versione della cache: cambiala (v2, v3…) ogni volta che pubblichi un aggiornamento.
-const VERSION = 'saltmere-v1';
+const VERSION = 'saltmere-v2';
 const CORE = ['./', './index.html', './manifest.webmanifest',
   './icons/icon-192.png', './icons/icon-512.png', './icons/icon-maskable-512.png', './icons/apple-touch-icon.png'];
 
